@@ -30,7 +30,7 @@ The Iris Classification project involves creating a machine learning model to cl
 | **KMeans**           | NaN       | NaN       | NaN      | NaN      | Unsupervised clustering  | NaN                      | NaN                      | NaN             |
 | **PCA**              | NaN       | NaN       | NaN      | NaN      | Dimensionality reduction | 0.727705                 | 0.230305                 | 0.95801         |
 
-**6. *Hyperparameter Tuning**
+**6. Hyperparameter Tuning**
    
    ✅ Best Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
    
@@ -39,6 +39,7 @@ The Iris Classification project involves creating a machine learning model to cl
    Test Accuracy with Best SVM: 0.9333333333333333
 
 **7. Model Interpretation and Insights**
+
    📊 Standardized Feature Means by Species
 
 | Species          | SepalLengthCm | SepalWidthCm | PetalLengthCm | PetalWidthCm |
