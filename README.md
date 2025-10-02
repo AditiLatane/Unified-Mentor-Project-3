@@ -1,4 +1,4 @@
-## Unified-Mentor-Task-3
+## Unified-Mentor-Project-3
 # Iris classification
 
 **Problem Statement :**
